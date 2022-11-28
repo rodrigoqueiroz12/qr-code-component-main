@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-e0j9Xr-wjW)
-- Live Site URL: [Add live site URL here](https://qr-code-component-main-ten-mu.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-e0j9Xr-wjW](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-e0j9Xr-wjW)
+- Live Site URL: [https://qr-code-component-main-ten-mu.vercel.app/](https://qr-code-component-main-ten-mu.vercel.app/)
 
 ## My process
 
@@ -37,5 +37,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Github - [Add your name here](https://github.com/rodrigoqueiroz12)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rodrigoqueiroz12)
+- Github - [Rodrigo Queiroz](https://github.com/rodrigoqueiroz12)
+- Frontend Mentor - [@rodrigoqueiroz12](https://www.frontendmentor.io/profile/rodrigoqueiroz12)
